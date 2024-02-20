@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="bar">
+      <img src="img/image1.png" alt>
+      <div>
+        <a href="index.html">На главную</a>
+        <a href="pricelist.html">Услуги</a>
+        <a href="about_us.html">О нас</a>
+        <a href="autorization.html">Авторизация</a>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="footer-content">
+        <h1>hello world</h1>
+        <div class="content">
+          <div><img src="img/image1.png" alt><p>hello world</p></div>
+          <div><img src="img/image1.png" alt><p>hello world</p></div>
+          <div><img src="img/image1.png" alt><p>hello world</p></div>
+        </div>
+      </div>
+    </div>
+    <div class="main">
+      <strong>hello world</strong>
+      <p>hello world</p>
+      <div class="content">
+        <div><img src="img/image1.png" alt><p>hello world</p></div>
+        <div><img src="img/image1.png" alt><p>hello world</p></div>
+        <div><img src="img/image1.png" alt><p>hello world</p></div>
+      </div>
+    </div>
+    <div class="podval">
+      <h1>Контакты</h1>
+      <div class="content">
+        <div><img src="img/discord.png" alt><p>aysyum</p></div>
+        <div><img src="img/telegram.jpg" alt><p>BrokenDecadance</p></div>
+        <div><img src="img/image1.png" alt><p>Quankai</p></div>
+      </div>
+    </div>
+  </body>
+</html>
